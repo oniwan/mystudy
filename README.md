@@ -1,0 +1,2 @@
+# mystudy
+studying Q-learning
